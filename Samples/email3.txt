@@ -1,0 +1,13 @@
+Subject: Team Meeting Reminder
+From: admin@company.com
+To: user@example.com
+
+Dear Team,
+
+This is a reminder for our weekly team meeting scheduled for Friday at 10:00 AM. 
+Please join the Microsoft Teams link below:
+
+https://company.com/teams/weekly-meeting
+
+Best regards,
+Admin Team

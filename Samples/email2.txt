@@ -1,0 +1,14 @@
+Subject: Job Offer Confirmation
+From: hr@company-careers.net
+To: user@example.com
+
+Hello,
+
+Congratulations! You have been shortlisted for a job offer. 
+Please provide your personal information, including your ID number and banking details, 
+to complete the process.
+
+Click here to submit your details: http://company-careers.net/submit-info
+
+Thank you,
+HR Department

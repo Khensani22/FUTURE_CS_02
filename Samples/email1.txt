@@ -1,0 +1,15 @@
+Subject: Urgent: Verify Your Bank Account
+From: support@secure-bank-alert.com
+To: user@example.com
+
+Dear Customer,
+
+Your bank account has been flagged for unusual activity. 
+Please click the link below to verify your account immediately:
+
+http://secure-bank-alert.com/verify-account
+
+Failure to do so may result in account suspension.
+
+Sincerely,
+Bank Security Team
